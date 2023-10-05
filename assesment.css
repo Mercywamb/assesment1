@@ -1,0 +1,55 @@
+.top{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    padding-left: 450px;
+    
+     
+    }
+     
+
+}   
+body{
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
+.list{
+    color: hsl(219, 9%, 45%);
+    
+    
+}
+.prod{
+    color: hsl(219, 9%, 45%);
+}
+.was{
+    color: hsl(219, 9%, 45%);
+}
+.compn{
+    color: hsl(26, 100%, 55%);
+    
+}
+.desription{
+    padding-left: 550px;
+}
+.firsti{
+    padding-left: 60px;
+    border-radius: 30px;
+
+}
+.imageli{
+    padding-left: 300px ;
+    width: 200px;
+    height: 300px;
+    
+}
+.opa{
+    opacity: 0.3;
+}
+.perc{
+    color: hsl(26, 100%, 55%);
+}
+.firstim{
+    padding-left: 500px
+}
